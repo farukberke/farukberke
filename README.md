@@ -1,6 +1,6 @@
 # Merhaba, ben Faruk Berke 👋
 
-4. sınıf Yazılım Geliştirme öğrencisiyim. **AI/LLM Engineering** ve agentic AI sistemleri üzerine çalışıyorum.
+4\. sınıf Yazılım Geliştirme öğrencisiyim. **AI/LLM Engineering** ve agentic AI sistemleri üzerine çalışıyorum.
 
 **RAG, tool calling, multi-agent sistemler ve LLM fine-tuning** üzerine projeler geliştiriyorum.  
 Şu anda aynı zamanda **Machine Learning ve Deep Learning** temellerimi güçlendiriyorum.
