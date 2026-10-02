@@ -5,19 +5,23 @@
 **RAG, tool calling, multi-agent sistemler ve LLM fine-tuning** üzerine projeler geliştiriyorum.  
 Şu anda **Machine Learning ve Deep Learning** temellerimi güçlendirirken AI sistemlerinin **production'a taşınması ve deployment** süreçleri üzerine de çalışıyorum.
 
-## Öne Çıkan Projeler
+## Projeler
 
-### 🔹 [Text-to-SQL QLoRA Fine-Tuning](https://github.com/farukberke/text-to-sql-qlora)
-Qwen2.5-1.5B modelini QLoRA ile fine-tune ederek base ve fine-tuned modelleri syntax, şema doğruluğu ve execution accuracy metrikleriyle karşılaştırdım.
+### 🤖 AI Agents & Agentic Systems
 
-### 🔹 [İK & IT Asistanı](https://github.com/farukberke/hr-it-assistant)
-Çok dilli embeddings, ChromaDB, SQLite ve Groq native function-calling kullanarak RAG + tool-calling tabanlı bir AI asistanı geliştirdim.
+- [Content Review Crew](https://github.com/farukberke/content-review-crew) — CrewAI ile hierarchical multi-agent orchestration, manager delegation, custom tools ve structured output.
+- [Customer Support Agents](https://github.com/farukberke/customer-support-agents) — OpenAI Agents SDK ile manager tabanlı orchestration, agent-as-tool ve function tools.
 
-### 🔹 [Customer Support Agents](https://github.com/farukberke/customer-support-agents)
-OpenAI Agents SDK kullanarak manager tabanlı orchestration, agent-as-tool ve function tool yapısına sahip multi-agent müşteri destek sistemi geliştirdim.
+### 🔎 RAG & LLM Applications
+
+- [İK & IT Asistanı](https://github.com/farukberke/hr-it-assistant) — RAG + native tool calling ile kurumsal AI asistanı.
+
+### 🧠 LLM Training & Fine-Tuning
+
+- [Text-to-SQL QLoRA](https://github.com/farukberke/text-to-sql-qlora) — Qwen2.5-1.5B üzerinde QLoRA fine-tuning ve base/fine-tuned model karşılaştırması.
 
 ## Teknolojiler
 
 **Languages & Tools:** Python, Git, GitHub  
 **AI / LLM:** RAG, Embeddings, Vector Search, Tool Calling, Multi-Agent Systems, LoRA/QLoRA  
-**Frameworks & Protocols:** Hugging Face Transformers, LangChain, LangGraph, OpenAI Agents SDK, MCP
+**Frameworks & Protocols:** LangChain, LangGraph, OpenAI Agents SDK, CrewAI, MCP
