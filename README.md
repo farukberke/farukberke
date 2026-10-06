@@ -1,6 +1,6 @@
 # Merhaba, ben Faruk Berke 👋
 
-4\. sınıf Yazılım Geliştirme öğrencisiyim. **AI/LLM Engineering** ve agentic AI sistemleri üzerine çalışıyorum.
+4. sınıf Yazılım Geliştirme öğrencisiyim. **AI/LLM Engineering** ve agentic AI sistemleri üzerine çalışıyorum.
 
 **RAG, tool calling, multi-agent sistemler ve LLM fine-tuning** üzerine projeler geliştiriyorum.  
 Şu anda **Machine Learning ve Deep Learning** temellerimi güçlendirirken AI sistemlerinin **production'a taşınması ve deployment** süreçleri üzerine de çalışıyorum.
@@ -9,6 +9,7 @@
 
 ### 🤖 AI Agents & Agentic Systems
 
+- [Approval Agent](https://github.com/farukberke/approval-agent) — LangChain `create_agent` ile human-in-the-loop, tool calling, checkpointing ve approve/edit/reject akışları.
 - [Content Review Crew](https://github.com/farukberke/content-review-crew) — CrewAI ile hierarchical multi-agent orchestration, manager delegation, custom tools ve structured output.
 - [Customer Support Agents](https://github.com/farukberke/customer-support-agents) — OpenAI Agents SDK ile manager tabanlı orchestration, agent-as-tool ve function tools.
 
