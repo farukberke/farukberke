@@ -1,28 +1,47 @@
-# Merhaba, ben Faruk Berke 👋
+# Hi, I'm Faruk Berke 👋
 
-4\. sınıf Yazılım Geliştirme öğrencisiyim. **AI/LLM Engineering** ve agentic AI sistemleri üzerine çalışıyorum.
+**AI & Backend Developer | Python, FastAPI | LLMs, RAG & AI Agents**
 
-**RAG, tool calling, multi-agent sistemler ve LLM fine-tuning** üzerine projeler geliştiriyorum.  
-Şu anda **Machine Learning ve Deep Learning** temellerimi güçlendirirken AI sistemlerinin **production'a taşınması ve deployment** süreçleri üzerine de çalışıyorum.
+I'm a final-year Software Development student focused on AI engineering and Python backend development.
 
-## Projeler
+I build applications using LLMs, RAG, and AI agent systems, with a growing focus on backend development using Python and FastAPI.
+
+My goal is to bridge AI engineering and backend development by building reliable, scalable, and production-ready AI applications.
+
+## 🛠️ Technical Skills
+
+**Programming:** Python, SQL
+
+**AI & LLM Engineering:** RAG, Embeddings, Vector Search, Hugging Face, Fine-Tuning (LoRA/QLoRA)
+
+**Agentic AI:** LangChain, LangGraph, CrewAI, OpenAI Agents SDK, MCP, Tool Calling
+
+**Backend Development:** FastAPI, REST APIs, Asynchronous Programming, Pydantic, SQLModel, PostgreSQL, OAuth2/JWT
+
+**Tools & Infrastructure:** Docker, Docker Compose, Redis, Celery, Git, Pytest
+
+## 🚀 Projects
 
 ### 🤖 AI Agents & Agentic Systems
 
-- [Approval Agent](https://github.com/farukberke/approval-agent) — LangChain `create_agent` ile human-in-the-loop, tool calling, checkpointing ve approve/edit/reject akışları.
-- [Content Review Crew](https://github.com/farukberke/content-review-crew) — CrewAI ile hierarchical multi-agent orchestration, manager delegation, custom tools ve structured output.
-- [Customer Support Agents](https://github.com/farukberke/customer-support-agents) — OpenAI Agents SDK ile manager tabanlı orchestration, agent-as-tool ve function tools.
+- **[Approval Agent](https://github.com/farukberke/approval-agent)** — Human-in-the-loop agent using LangChain with tool calling, checkpointing, and approval workflows.
+- **[Content Review Crew](https://github.com/farukberke/content-review-crew)** — Hierarchical multi-agent content review system built with CrewAI, custom tools, and structured outputs.
+- **[Customer Support Agents](https://github.com/farukberke/customer-support-agents)** — Manager-based multi-agent orchestration using OpenAI Agents SDK and agent-as-tool patterns.
 
 ### 🔎 RAG & LLM Applications
 
-- [İK & IT Asistanı](https://github.com/farukberke/hr-it-assistant) — RAG + native tool calling ile kurumsal AI asistanı.
+- **[HR & IT Assistant](https://github.com/farukberke/hr-it-assistant)** — RAG-based assistant combining semantic search with native tool calling for HR and IT workflows.
 
-### 🧠 LLM Training & Fine-Tuning
+### 🧠 LLM Fine-Tuning
 
-- [Text-to-SQL QLoRA](https://github.com/farukberke/text-to-sql-qlora) — Qwen2.5-1.5B üzerinde QLoRA fine-tuning ve base/fine-tuned model karşılaştırması.
+- **[Text-to-SQL QLoRA](https://github.com/farukberke/text-to-sql-qlora)** — Fine-tuning Qwen2.5-1.5B using QLoRA for text-to-SQL generation, including base vs. fine-tuned model evaluation.
 
-## Teknolojiler
+## 🎯 Current Focus
 
-**Languages & Tools:** Python, Git, GitHub  
-**AI / LLM:** RAG, Embeddings, Vector Search, Tool Calling, Multi-Agent Systems, LoRA/QLoRA  
-**Frameworks & Protocols:** LangChain, LangGraph, OpenAI Agents SDK, CrewAI, MCP
+- Building AI applications with Python and FastAPI
+- Exploring deployment and production engineering practices
+- Improving reliability, evaluation, and backend integration of LLM-powered systems
+
+## 🔗 Connect
+
+- **LinkedIn:** [linkedin.com/in/farukberke](https://www.linkedin.com/in/farukberke)
