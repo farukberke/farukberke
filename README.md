@@ -16,9 +16,9 @@ My goal is to bridge AI engineering and backend development by building reliable
 
 **Agentic AI:** LangChain, LangGraph, CrewAI, OpenAI Agents SDK, MCP, Tool Calling
 
-**Backend Development:** FastAPI, REST APIs, Asynchronous Programming, Pydantic, SQLModel, PostgreSQL, OAuth2/JWT
+**Backend Development:** FastAPI, REST APIs, Async/Await, Pydantic, SQLModel, PostgreSQL, Alembic, OAuth2/JWT
 
-**Tools & Infrastructure:** Docker, Docker Compose, Redis, Celery, Git, Pytest
+**Tools & Infrastructure:** Docker, Docker Compose, Redis, Celery, Git, Pytest, AWS, Render
 
 ## 🚀 Projects
 
