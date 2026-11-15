@@ -4,21 +4,21 @@
 
 I'm a final-year Software Development student focused on AI engineering and Python backend development.
 
-I build applications using LLMs, RAG, and AI agent systems, with a growing focus on backend development using Python and FastAPI.
+I build LLM-powered applications using RAG, AI agents, and tool calling, with a focus on integrating AI capabilities into Python-based backend systems.
 
-My goal is to bridge AI engineering and backend development by building reliable, scalable, and production-ready AI applications.
+My goal is to develop reliable, secure, and production-ready AI applications that solve real-world problems.
 
 ## 🛠️ Technical Skills
 
 **Programming:** Python, SQL
 
-**AI & LLM Engineering:** RAG, Embeddings, Vector Search, Hugging Face, Fine-Tuning (LoRA/QLoRA)
+**AI & LLM Engineering:** RAG, Embeddings, Vector Search, Hugging Face, Fine-Tuning (LoRA/QLoRA), LLM Evaluation, LangSmith
 
 **Agentic AI:** LangChain, LangGraph, CrewAI, OpenAI Agents SDK, MCP, Tool Calling
 
-**Backend Development:** FastAPI, REST APIs, Async/Await, Pydantic, SQLModel, PostgreSQL, Alembic, OAuth2/JWT
+**Backend Development:** FastAPI, REST APIs, Async/Await, Pydantic, SQLModel, SQLAlchemy, PostgreSQL, Alembic, OAuth2/JWT
 
-**Tools & Infrastructure:** Docker, Docker Compose, Redis, Celery, Git, Pytest, AWS, Render
+**Tools & Infrastructure:** Docker, Docker Compose, Redis, Celery, Git, Pytest, AWS, Render, GitHub Actions (CI/CD)
 
 ## 🚀 Projects
 
@@ -38,9 +38,9 @@ My goal is to bridge AI engineering and backend development by building reliable
 
 ## 🎯 Current Focus
 
-- Building AI applications with Python and FastAPI
-- Exploring deployment and production engineering practices
-- Improving reliability, evaluation, and backend integration of LLM-powered systems
+- Building AI-powered applications with Python and FastAPI
+- Designing secure backend integrations and agentic workflows
+- Improving application reliability through testing, LLM evaluation, observability, and deployment practices
 
 ## 🔗 Connect
 
