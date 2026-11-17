@@ -22,6 +22,18 @@ My goal is to develop reliable, secure, and production-ready AI applications tha
 
 ## 🚀 Projects
 
+### ⭐ Featured Project — Seans Arası
+
+**[Seans Arası](https://github.com/farukberke/seansarasi)** | [Live Demo](https://seansarasi.online/)
+
+An AI-assisted between-sessions journaling platform featuring source-cited summaries, client-controlled sharing, role-based access control, and privacy-focused workflows.
+
+**Tech:** Python, FastAPI, PostgreSQL, SQLAlchemy, Pydantic AI, Redis, Celery, React, TypeScript, Docker, Render, GitHub Actions.
+
+Built with structured AI outputs, safety guardrails, automated testing, background jobs, and observability.
+
+*Portfolio demo using synthetic data only; not a medical device.*
+
 ### 🤖 AI Agents & Agentic Systems
 
 - **[Approval Agent](https://github.com/farukberke/approval-agent)** — Human-in-the-loop agent using LangChain with tool calling, checkpointing, and approval workflows.
