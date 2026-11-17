@@ -4,21 +4,21 @@
 
 I'm a final-year Software Development student focused on AI engineering and Python backend development.
 
-I build LLM-powered applications using RAG, AI agents, and tool calling, with a focus on integrating AI capabilities into Python-based backend systems.
+I build LLM-powered applications using RAG, AI agents, and tool calling, with hands-on project experience in backend integration, testing, security, and deployment.
 
-My goal is to develop reliable, secure, and production-ready AI applications that solve real-world problems.
+My goal is to contribute to building reliable AI applications, improving LLM evaluation, and developing secure, production-ready AI workflows.
 
 ## 🛠️ Technical Skills
 
 **Programming:** Python, SQL
 
-**AI & LLM Engineering:** RAG, Embeddings, Vector Search, Hugging Face, Fine-Tuning (LoRA/QLoRA), LLM Evaluation, LangSmith
+**AI & LLM Engineering:** RAG, Embeddings, Fine-Tuning (LoRA/QLoRA), LLM Evaluation
 
-**Agentic AI:** LangChain, LangGraph, CrewAI, OpenAI Agents SDK, MCP, Tool Calling
+**Agentic AI:** LangChain, LangGraph, Pydantic AI, Tool Calling, MCP
 
-**Backend Development:** FastAPI, REST APIs, Async/Await, Pydantic, SQLModel, SQLAlchemy, PostgreSQL, Alembic, OAuth2/JWT
+**Backend Development:** FastAPI, REST APIs, Pydantic, SQLAlchemy, PostgreSQL, Alembic
 
-**Tools & Infrastructure:** Docker, Docker Compose, Redis, Celery, Git, Pytest, AWS, Render, GitHub Actions (CI/CD)
+**Tools & Infrastructure:** Docker, Redis, Celery, Git, Pytest, Render, GitHub Actions (CI)
 
 ## 🚀 Projects
 
@@ -26,11 +26,11 @@ My goal is to develop reliable, secure, and production-ready AI applications tha
 
 **[Seans Arası](https://github.com/farukberke/seansarasi)** | [Live Demo](https://seansarasi.online/)
 
-An AI-assisted between-sessions journaling platform featuring source-cited summaries, client-controlled sharing, role-based access control, and privacy-focused workflows.
+An AI-assisted between-sessions journaling platform featuring source-cited summaries, client-controlled sharing, multi-tenant data isolation, role-based access control, and privacy-focused workflows.
 
 **Tech:** Python, FastAPI, PostgreSQL, SQLAlchemy, Pydantic AI, Redis, Celery, React, TypeScript, Docker, Render, GitHub Actions.
 
-Built with structured AI outputs, safety guardrails, automated testing, background jobs, and observability.
+Built with structured AI outputs, safety guardrails, human-in-the-loop workflows, automated testing, background jobs, and observability.
 
 *Portfolio demo using synthetic data only; not a medical device.*
 
